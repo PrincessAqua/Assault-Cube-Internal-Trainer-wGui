@@ -1,4 +1,4 @@
-# internalTrainer
+# Assault Cube Internal Trainer w Gui
 
 A little and very simple trainer for Assault Cube 1.3.0.2 with a gui made with Windows Forms (NOT FOR ONLINE).
 
